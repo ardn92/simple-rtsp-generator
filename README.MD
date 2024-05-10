@@ -91,3 +91,9 @@ FFplay, part of the FFmpeg suite, is a simple and efficient media player that ca
   ```bash
   ffplay rtsp://username:password@localhost:8554/video_filename
   ```
+    
+      
+        
+### Acknowledgments
+
+For more information on the RTSP server technology used in this project, visit the [MediaMTX GitHub repository](https://github.com/bluenviron/mediamtx).
